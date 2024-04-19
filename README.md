@@ -12,3 +12,6 @@ Information about how to configure email servers, services, etc.
 - https://www.nospamproxy.de/wp-content/uploads/Praxisleitfaden-DKIM-SPF-DMARC-DANE-1.pdf
 - https://www.debouncer.com/reverse-dns-check
 - https://www.checktls.com/index.html
+- https://www.internetsociety.org/deploy360/dnssec/statistics/
+- https://stats.labs.apnic.net/dnssec/
+- https://stats.labs.apnic.net/dnssec
