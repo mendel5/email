@@ -15,3 +15,5 @@ Information about how to configure email servers, services, etc.
 - https://www.internetsociety.org/deploy360/dnssec/statistics/
 - https://stats.labs.apnic.net/dnssec/
 - https://stats.labs.apnic.net/dnssec
+- https://www.windowspro.de/news/microsoft-unterstuetzt-dane-dnssec-exchange-online/04980.html
+- https://testconnectivity.microsoft.com/tests/O365DaneValidation/input
