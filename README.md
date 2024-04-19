@@ -8,3 +8,4 @@ Information about how to configure email servers, services, etc.
 - https://www.mail-tester.com/
 - https://dnssec-debugger.verisignlabs.com/
 - https://www.experte.de/dns-check/dnssec
+- https://ssl-tools.net/
