@@ -1,2 +1,10 @@
 # email
 Information about how to configure email servers, services, etc.
+
+## Links
+- https://support.google.com/a/answer/81126 Email sender guidelines
+- https://mecsa.jrc.ec.europa.eu/en/ EU Email Communications Security Assessment (MECSA)
+- https://mxtoolbox.com/supertool
+- https://www.mail-tester.com/
+- https://dnssec-debugger.verisignlabs.com/
+- https://www.experte.de/dns-check/dnssec
