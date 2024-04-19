@@ -10,3 +10,4 @@ Information about how to configure email servers, services, etc.
 - https://www.experte.de/dns-check/dnssec
 - https://ssl-tools.net/
 - https://www.nospamproxy.de/wp-content/uploads/Praxisleitfaden-DKIM-SPF-DMARC-DANE-1.pdf
+- https://www.debouncer.com/reverse-dns-check
