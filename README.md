@@ -13,6 +13,7 @@ Information about how to configure email servers, services, etc.
 - https://www.debouncer.com/reverse-dns-check
 - https://testconnectivity.microsoft.com/tests/exo
 - https://testconnectivity.microsoft.com/tests/O365DaneValidation/input
+- https://dnschecker.org/all-tools.php
 
 ## Wissen
 - https://support.google.com/a/answer/81126 Email sender guidelines
@@ -28,6 +29,8 @@ Information about how to configure email servers, services, etc.
 - https://www.hornetsecurity.com/de/services/email-authentifizierung/
 - https://www.anubisnetworks.com/blog/dmarc_dane_explained
 - https://www.heise.de/news/iX-Workshops-Sichere-Datenuebertragung-mit-TLS-DNSSEC-und-DANE-6332452.html
+- https://www.nslookup.io/learning/what-is-a-good-ttl-for-dns/ TTL
+- https://www.varonis.com/blog/dns-ttl TTL
 
 ## DNSSEC
 ### Tester
@@ -43,6 +46,8 @@ Information about how to configure email servers, services, etc.
 - https://www.windowspro.de/news/microsoft-unterstuetzt-dane-dnssec-exchange-online/04980.html
 - https://learn.microsoft.com/de-de/purview/how-smtp-dane-works
 - https://practical365.com/exchange-online-dnssec-dane/
+- https://learn.microsoft.com/de-de/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider?view=o365-worldwide
+- https://learn.microsoft.com/de-de/microsoft-365/enterprise/external-domain-name-system-records?view=o365-worldwide
 
 ### Hoster: IONOS
 - https://www.ionos.de/hilfe/domains/domain-guard/dnssec-einrichten-und-verwalten/
