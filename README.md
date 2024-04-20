@@ -20,7 +20,6 @@ Information about how to configure email servers, services, etc.
 - https://www.internetsociety.org/deploy360/dnssec/statistics/
 - https://stats.labs.apnic.net/dnssec/
 - https://stats.labs.apnic.net/dnssec
-- https://www.windowspro.de/news/microsoft-unterstuetzt-dane-dnssec-exchange-online/04980.html
 - https://blog.lindenberg.one/EmailSicherheitsTest
 - https://www.heise.de/news/Transportsicherheit-BSI-zertifiziert-E-Mail-Dienste-nach-neuer-Richtlinie-9349117.html
 - https://certified-senders.org/wp-content/uploads/2020/02/E-Mail-Transportverschluesselung-STARTTLS-vs.-DANE-vs.-MTA-STS_updated.pdf
@@ -38,6 +37,11 @@ Information about how to configure email servers, services, etc.
 ### Allgemein
 - https://www.hosttest.de/artikel/groesste-webhostinganbieter-in-deutschland
 - https://www.trending.de/hosting/die-10-groessten-deutschen-hoster-und-meine-empfehlung/
+
+### Microsoft
+- https://www.windowspro.de/news/microsoft-unterstuetzt-dane-dnssec-exchange-online/04980.html
+- https://learn.microsoft.com/de-de/purview/how-smtp-dane-works
+- https://practical365.com/exchange-online-dnssec-dane/
 
 ### Hoster: IONOS
 - https://www.ionos.de/hilfe/domains/domain-guard/dnssec-einrichten-und-verwalten/
