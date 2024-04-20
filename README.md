@@ -48,5 +48,6 @@ Information about how to configure email servers, services, etc.
 - https://www.strato.de/faq/domains/was-ist-domain-guard/
 
 ### Hoster: Hetzner
+- https://docs.hetzner.com/de/dns-console/dns/general/dns-overview/
 - https://docs.hetzner.com/de/dns-console/dns/general/dnssec/
 - https://docs.hetzner.com/dns-console/dns/general/dnssec/
