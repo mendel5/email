@@ -27,9 +27,10 @@ Information about how to configure email servers, services, etc.
 - https://beta-its.de/ultimative-domain-sicherheit-dnssec-mta-sts-dane-dmarc
 - https://www.hornetsecurity.com/de/services/email-authentifizierung/
 - https://www.anubisnetworks.com/blog/dmarc_dane_explained
+- https://www.heise.de/news/iX-Workshops-Sichere-Datenuebertragung-mit-TLS-DNSSEC-und-DANE-6332452.html
 
 ## DNSSEC
-### Allgemein
+### Tester
 - https://dnssec-debugger.verisignlabs.com/
 - https://www.experte.de/dns-check/dnssec
 
