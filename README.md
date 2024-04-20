@@ -48,12 +48,14 @@ Information about how to configure email servers, services, etc.
 - https://www.ionos.de/hilfe/domains/domain-guard/dnssec-einrichten-und-verwalten/
 
 ### Hoster: Strato
-- https://www.strato.de/faq/domains/wie-kann-ich-bei-strato-meine-dns-eintraege-verwalten/
+- https://www.strato.de/faq/domains/wie-kann-ich-bei-strato-meine-dns-eintraege-verwalten/ (`smtpin.rzone.de`)
 - https://www.strato.de/faq/domains/sichern-sie-ihre-webseite-mit-dnssec/
 - https://www.strato.de/faq/domains/was-ist-domain-guard/
 - https://www.strato.de/faq/hosting/DMARC-Policy/
 - https://www.strato.de/faq/hosting/dmarc-bei-strato-aktivieren/
 - https://www.strato.de/faq/mail/wie-kann-ich-fuer-meine-domain-die-dkim-einstellungen-aendern/
+- https://www.strato.de/faq/mail/so-lauten-die-strato-e-mail-server/
+- https://www.strato.de/faq/mail/externes-e-mail-programm-mit-strato-e-mail-adresse-nutzen/
 
 ### Hoster: Hetzner
 - https://docs.hetzner.com/de/dns-console/dns/general/dns-overview/
