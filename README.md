@@ -35,7 +35,7 @@ Note: Some content is focused on Germany.
   - MTA-STS is a security standard used to enforce transport layer (TLS) encryption and authenticate email in transit between servers, preventing interception and tampering by mandating HTTPS for SMTP connections.
   - With MTA-STS a TLS encryption is enforced while with StartTLS a TLS encryption is optional.
 
-## Testing
+## Testing Allgemein
 - https://mecsa.jrc.ec.europa.eu/en/ EU Email Communications Security Assessment (MECSA)
 - https://mxtoolbox.com/supertool
 - https://mxtoolbox.com/dmarc/dmarc-email-tools SPF DKIM DMARC
@@ -48,6 +48,10 @@ Note: Some content is focused on Germany.
 - https://testconnectivity.microsoft.com/tests/exo
 - https://testconnectivity.microsoft.com/tests/O365DaneValidation/input
 - https://dnschecker.org/all-tools.php
+
+### Testing DNSSEC
+- https://dnssec-debugger.verisignlabs.com/
+- https://www.experte.de/dns-check/dnssec
 
 ## Wissen
 - https://support.google.com/a/answer/81126 Email sender guidelines
@@ -65,11 +69,6 @@ Note: Some content is focused on Germany.
 - https://www.heise.de/news/iX-Workshops-Sichere-Datenuebertragung-mit-TLS-DNSSEC-und-DANE-6332452.html
 - https://www.nslookup.io/learning/what-is-a-good-ttl-for-dns/ TTL
 - https://www.varonis.com/blog/dns-ttl TTL
-
-## DNSSEC
-### Tester
-- https://dnssec-debugger.verisignlabs.com/
-- https://www.experte.de/dns-check/dnssec
 
 ## Hoster
 ### Allgemein
@@ -100,3 +99,34 @@ Note: Some content is focused on Germany.
 - https://docs.hetzner.com/de/dns-console/dns/general/dns-overview/
 - https://docs.hetzner.com/de/dns-console/dns/general/dnssec/
 - https://docs.hetzner.com/dns-console/dns/general/dnssec/
+
+## DNSSEC
+Welche Hoster, Internetdienstanbieter, etc. unterstützen DNSSEC und welche nicht?
+
+### DNSSEC wird unterstützt
+- IONOS (1&1)
+- Strato
+- Microsoft Outlook 365
+
+### DNSSEC wird nicht unterstützt
+- Hetzner
+
+### Prüfen
+- OVH
+- DigitalOcean
+- Namecheap
+- AWS
+- GoDaddy
+- Bluehost
+- Siteground
+- Contabo
+- All-inkl
+- Domainfactory
+- Host Europe
+- Mittwald
+- Netcup
+- Alfahosting
+- PlusServer
+- ProfiHost
+- WebGo
+- 1Blu
