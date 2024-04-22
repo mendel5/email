@@ -5,28 +5,34 @@ Note: Some content is focused on Germany.
 
 ## Verbindungen
 - E-Mail-Client <--> E-Mail-Server
-- E-Mail-Server <--> E-Mail-Server <-- in diesem Repository geht es hauptsächlich um diese Verbindungen.
+- E-Mail-Server <--> E-Mail-Server <-- in diesem Repository geht es hauptsächlich um diese Art von Verbindungen.
 
 ## Wichtige Funktionen
 - SPF
   - Sender Policy Framework
   - https://en.wikipedia.org/wiki/Sender_Policy_Framework
+  - SPF is an email validation protocol designed to detect and block email spoofing by verifying sender IP addresses against the email domain's authorized senders list published in DNS records.
 - DKIM
   - DomainKeys Identified Mail
   - https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail
+  - DKIM is an email authentication method that allows the receiver to check that an email claimed to have come from a specific domain was indeed authorized by the owner of that domain through cryptographic signatures.
 - DMARC
   - Domain-based Message Authentication, Reporting and Conformance
   - https://en.wikipedia.org/wiki/DMARC
+  - DMARC is an email authentication, policy, and reporting protocol that builds on SPF and DKIM to enhance the domain owners' ability to prevent their domains from being used for email spoofing, phishing scams, and other cybercrimes.
 - DNSSEC
   - Domain Name System Security Extensions
   - https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions
+  - DNSSEC is a set of protocols that add a layer of security to the DNS lookup and response process by digitally signing data to validate its authenticity, thus protecting against DNS spoofing.
 - DANE
   - DNS-based Authentication of Named Entities
   - https://en.wikipedia.org/wiki/DNS-based_Authentication_of_Named_Entities
+  - DANE is a protocol used to secure internet connections by allowing DNS records to specify what certificates are trustworthy for a given domain, preventing attacks on the TLS (Transport Layer Security) protocol.
 - MTA-STS
   - Message Transfer Agent, Strict Transport Security
   - https://en.wikipedia.org/wiki/MTA-STS
-  - With MTA-STS a SSL/TLS encryption is enforced while with StartTLS an SSL/TLS encryption is optional.
+  - MTA-STS is a security standard used to enforce transport layer (TLS) encryption and authenticate email in transit between servers, preventing interception and tampering by mandating HTTPS for SMTP connections.
+  - With MTA-STS a TLS encryption is enforced while with StartTLS a TLS encryption is optional.
 
 ## Tester
 - https://mecsa.jrc.ec.europa.eu/en/ EU Email Communications Security Assessment (MECSA)
