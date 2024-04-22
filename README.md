@@ -28,13 +28,14 @@ Note: Some content is focused on Germany.
   - DNS-based Authentication of Named Entities
   - https://en.wikipedia.org/wiki/DNS-based_Authentication_of_Named_Entities
   - DANE is a protocol used to secure internet connections by allowing DNS records to specify what certificates are trustworthy for a given domain, preventing attacks on the TLS (Transport Layer Security) protocol.
+  - DANE can only be used effectively if DNSSEC is enabled.
 - MTA-STS
   - Message Transfer Agent, Strict Transport Security
   - https://en.wikipedia.org/wiki/MTA-STS
   - MTA-STS is a security standard used to enforce transport layer (TLS) encryption and authenticate email in transit between servers, preventing interception and tampering by mandating HTTPS for SMTP connections.
   - With MTA-STS a TLS encryption is enforced while with StartTLS a TLS encryption is optional.
 
-## Tester
+## Testing
 - https://mecsa.jrc.ec.europa.eu/en/ EU Email Communications Security Assessment (MECSA)
 - https://mxtoolbox.com/supertool
 - https://mxtoolbox.com/dmarc/dmarc-email-tools SPF DKIM DMARC
