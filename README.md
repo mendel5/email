@@ -120,7 +120,7 @@ Welche Hoster, Internetdienstanbieter, etc. unterstützen DNSSEC und welche nich
 - Bluehost
 - Siteground
 - Contabo
-- All-inkl
+- All-inkl / All inkl
 - Domainfactory
 - Host Europe
 - Mittwald
@@ -131,3 +131,5 @@ Welche Hoster, Internetdienstanbieter, etc. unterstützen DNSSEC und welche nich
 - WebGo
 - 1Blu
 - Dogado
+- Goneo
+- Checkdomain
