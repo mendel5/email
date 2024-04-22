@@ -130,3 +130,4 @@ Welche Hoster, Internetdienstanbieter, etc. unterstützen DNSSEC und welche nich
 - ProfiHost
 - WebGo
 - 1Blu
+- Dogado
