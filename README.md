@@ -1,6 +1,33 @@
 # email
 Information about how to configure email servers, services, etc.
 
+Note: Some content is focused on Germany.
+
+## Verbindungen
+- E-Mail-Client <--> E-Mail-Server
+- E-Mail-Server <--> E-Mail-Server <-- in diesem Repository geht es hauptsächlich um diese Verbindungen.
+
+## Wichtige Funktionen
+- SPF
+  - Sender Policy Framework
+  - https://en.wikipedia.org/wiki/Sender_Policy_Framework
+- DKIM
+  - DomainKeys Identified Mail
+  - https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail
+- DMARC
+  - Domain-based Message Authentication, Reporting and Conformance
+  - https://en.wikipedia.org/wiki/DMARC
+- DNSSEC
+  - Domain Name System Security Extensions
+  - https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions
+- DANE
+  - DNS-based Authentication of Named Entities
+  - https://en.wikipedia.org/wiki/DNS-based_Authentication_of_Named_Entities
+- MTA-STS
+  - Message Transfer Agent, Strict Transport Security
+  - https://en.wikipedia.org/wiki/MTA-STS
+  - With MTA-STS a SSL/TLS encryption is enforced while with StartTLS an SSL/TLS encryption is optional.
+
 ## Tester
 - https://mecsa.jrc.ec.europa.eu/en/ EU Email Communications Security Assessment (MECSA)
 - https://mxtoolbox.com/supertool
