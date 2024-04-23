@@ -35,7 +35,8 @@ Note: Some content is focused on Germany.
   - MTA-STS is a security standard used to enforce transport layer (TLS) encryption and authenticate email in transit between servers, preventing interception and tampering by mandating HTTPS for SMTP connections.
   - With MTA-STS a TLS encryption is enforced while with StartTLS a TLS encryption is optional.
 
-## Testing Allgemein
+## Testing
+### Testing Allgemein
 - https://mecsa.jrc.ec.europa.eu/en/ EU Email Communications Security Assessment (MECSA)
 - https://mxtoolbox.com/supertool
 - https://mxtoolbox.com/dmarc/dmarc-email-tools SPF DKIM DMARC
@@ -52,6 +53,15 @@ Note: Some content is focused on Germany.
 ### Testing DNSSEC
 - https://dnssec-debugger.verisignlabs.com/
 - https://www.experte.de/dns-check/dnssec
+
+## DNSSEC New
+- https://joscor.com/blog/dane-tlsa-tutorial/
+- https://www.msxfaq.de/signcrypt/dane_tlsa.htm
+- https://thomas-leister.de/dane-tlsa-records-erklaert/
+- https://ssl-tools.net/tlsa-generator
+- https://github.com/internetstandards/toolbox-wiki/blob/main/DANE-for-SMTP-how-to.md
+- https://github.com/internetstandards/toolbox-wiki
+- https://internet.nl/
 
 ## Wissen
 - https://support.google.com/a/answer/81126 Email sender guidelines
