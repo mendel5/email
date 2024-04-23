@@ -63,6 +63,8 @@ Note: Some content is focused on Germany.
 - https://github.com/internetstandards/toolbox-wiki/blob/main/DANE-for-SMTP-how-to.md
 - https://github.com/internetstandards/toolbox-wiki
 - https://internet.nl/
+- https://www.dotplex.com/de/faq/dnssec-dane-tlsa
+- https://www.infoblox.com/dns-security-resource-center/dns-security-faq/what-is-dane/
 
 ## Wissen
 - https://support.google.com/a/answer/81126 Email sender guidelines
