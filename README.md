@@ -69,6 +69,7 @@ Note: Some content is focused on Germany.
 - https://www.heise.de/news/iX-Workshops-Sichere-Datenuebertragung-mit-TLS-DNSSEC-und-DANE-6332452.html
 - https://www.nslookup.io/learning/what-is-a-good-ttl-for-dns/ TTL
 - https://www.varonis.com/blog/dns-ttl TTL
+- https://support.google.com/a/answer/10032473 Tutorial for recommended DMARC rollout
 
 ## Hoster
 ### Allgemein
