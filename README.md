@@ -54,6 +54,7 @@ Note: Some content is focused on Germany.
 - https://dnssec-debugger.verisignlabs.com/
 - https://www.experte.de/dns-check/dnssec
 - https://dane.sys4.de/
+- https://dnsviz.net/
 
 ## DNSSEC New
 - https://joscor.com/blog/dane-tlsa-tutorial/
