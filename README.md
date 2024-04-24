@@ -49,6 +49,8 @@ Note: Some content is focused on Germany.
 - https://testconnectivity.microsoft.com/tests/exo
 - https://testconnectivity.microsoft.com/tests/O365DaneValidation/input
 - https://dnschecker.org/all-tools.php
+- https://toolbox.googleapps.com/apps/main/
+- https://toolbox.googleapps.com/apps/dig/
 
 ### Testing DNSSEC
 - https://dnssec-debugger.verisignlabs.com/
@@ -85,6 +87,7 @@ Note: Some content is focused on Germany.
 - https://www.varonis.com/blog/dns-ttl TTL
 - https://support.google.com/a/answer/10032473 Tutorial for recommended DMARC rollout
 - http://newweb.zytrax.com/books/dns/ch9/dmarc.html `_dmarc` / `_dmarc.example.com`
+- https://support.google.com/a/answer/2466563 Add your DMARC record
 
 ## Hoster
 ### Allgemein
