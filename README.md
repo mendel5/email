@@ -90,6 +90,7 @@ Note: Some content is focused on Germany.
 - https://support.google.com/a/answer/2466563 Add your DMARC record
 - https://access.redhat.com/documentation/de-de/red_hat_enterprise_linux/4/html/reference_guide/s2-bind-zone-examples
 - https://domainregister.international/index.php/knowledgebase/134/Recommended-SOA-values.html
+- https://clients.prohosterz.com/index.php?rp=/knowledgebase/18/What-does-serial-or-refresh-or-retry-or-expire-or-minimum-or-and-TTL-mean.html
 
 ## Hoster
 ### Allgemein
