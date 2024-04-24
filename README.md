@@ -49,7 +49,6 @@ Note: Some content is focused on Germany.
 - https://testconnectivity.microsoft.com/tests/exo
 - https://testconnectivity.microsoft.com/tests/O365DaneValidation/input
 - https://dnschecker.org/all-tools.php
-- https://dnscheck.pingdom.com/
 
 ### Testing DNSSEC
 - https://dnssec-debugger.verisignlabs.com/
