@@ -134,6 +134,7 @@ Welche Hoster, Internetdienstanbieter, etc. unterstützen DNSSEC und welche nich
 - Hetzner
 
 ### Prüfen
+- https://security.stackexchange.com/questions/204770/why-do-phishing-e-mails-use-faked-e-mail-addresses-instead-of-the-real-one dig commands
 - OVH
 - DigitalOcean
 - Namecheap
