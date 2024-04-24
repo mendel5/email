@@ -84,6 +84,7 @@ Note: Some content is focused on Germany.
 - https://www.nslookup.io/learning/what-is-a-good-ttl-for-dns/ TTL
 - https://www.varonis.com/blog/dns-ttl TTL
 - https://support.google.com/a/answer/10032473 Tutorial for recommended DMARC rollout
+- http://newweb.zytrax.com/books/dns/ch9/dmarc.html `_dmarc` / `_dmarc.example.com`
 
 ## Hoster
 ### Allgemein
