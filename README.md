@@ -89,6 +89,7 @@ Note: Some content is focused on Germany.
 - http://newweb.zytrax.com/books/dns/ch9/dmarc.html `_dmarc` / `_dmarc.example.com`
 - https://support.google.com/a/answer/2466563 Add your DMARC record
 - https://access.redhat.com/documentation/de-de/red_hat_enterprise_linux/4/html/reference_guide/s2-bind-zone-examples
+- https://domainregister.international/index.php/knowledgebase/134/Recommended-SOA-values.html
 
 ## Hoster
 ### Allgemein
