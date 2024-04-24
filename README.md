@@ -88,6 +88,7 @@ Note: Some content is focused on Germany.
 - https://support.google.com/a/answer/10032473 Tutorial for recommended DMARC rollout
 - http://newweb.zytrax.com/books/dns/ch9/dmarc.html `_dmarc` / `_dmarc.example.com`
 - https://support.google.com/a/answer/2466563 Add your DMARC record
+- https://access.redhat.com/documentation/de-de/red_hat_enterprise_linux/4/html/reference_guide/s2-bind-zone-examples
 
 ## Hoster
 ### Allgemein
