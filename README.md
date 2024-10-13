@@ -3,6 +3,9 @@ Information about how to configure email servers, services, etc.
 
 Note: Some content is focused on Germany.
 
+See also / Siehe auch:
+- https://github.com/mendel5/outlook
+
 ## Verbindungen
 - E-Mail-Client <--> E-Mail-Server
 - E-Mail-Server <--> E-Mail-Server <-- in diesem Repository geht es hauptsächlich um diese Art von Verbindungen.
