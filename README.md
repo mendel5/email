@@ -73,6 +73,7 @@ See also / Siehe auch:
 - https://www.infoblox.com/dns-security-resource-center/dns-security-faq/what-is-dane/
 
 ## Wissen
+### Teil 1
 - https://support.google.com/a/answer/81126 Email sender guidelines
 - https://www.nospamproxy.de/wp-content/uploads/Praxisleitfaden-DKIM-SPF-DMARC-DANE-1.pdf
 - https://www.internetsociety.org/deploy360/dnssec/statistics/
@@ -95,6 +96,18 @@ See also / Siehe auch:
 - https://domainregister.international/index.php/knowledgebase/134/Recommended-SOA-values.html
 - https://clients.prohosterz.com/index.php?rp=/knowledgebase/18/What-does-serial-or-refresh-or-retry-or-expire-or-minimum-or-and-TTL-mean.html
 - https://dmarcadvisor.com/what-is-external-destination-verification/ DMARC External Destination Verification (Domain)
+
+### Teil 2
+- https://mxtoolbox.com/dmarc/details/what-is-a-dmarc-record
+- https://dmarcly.com/blog/what-are-dmarc-tags-dmarc-tags-explained
+- https://easydmarc.com/blog/what-are-dmarc-tags-dmarc-tags-explained/
+- https://redsift.com/guides/email-protocol-configuration-guide/spf-failures-hard-fail-vs-soft-fail
+- https://www.mailhardener.com/blog/why-mailhardener-recommends-spf-softfail-over-fail
+- https://www.m3aawg.org/sites/default/files/m3aawg-email-authentication-recommended-best-practices-09-2020.pdf M3AAWG
+- https://old.reddit.com/r/sysadmin/comments/1ajp2c4/spf_hard_fail_vs_spf_soft_fail/
+- https://old.reddit.com/r/sysadmin/comments/1jqrnuh/spf_record_softfail_or_hardfail/
+- https://old.reddit.com/r/DMARC/comments/1am7j7e/dmarclys_descriptions_of_spf_fail_and_soft_fail/
+- https://old.reddit.com/r/DMARC/comments/1ad4qy2/best_practices_with_dmarcquarantinereject_and_spf/
 
 ## Hoster
 ### Allgemein
