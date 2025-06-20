@@ -4,6 +4,7 @@ Information about how to configure email servers, services, etc.
 Note: Some content is focused on Germany.
 
 See also / Siehe auch:
+- https://github.com/mendel5/thunderbird
 - https://github.com/mendel5/outlook
 
 ## Verbindungen
